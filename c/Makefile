@@ -1,5 +1,5 @@
 all:
-	gcc -Wall -o hello_world hello_world.c
+	gcc -Wall -o hello hello.c
 
 clean:
-	rm hello_world
+	rm hello
